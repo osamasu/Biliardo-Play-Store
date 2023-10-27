@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Biliardo Play Store\bin\Debug\Biliardo Play Store.exe.config
+C:\Users\lenovo\source\repos\Biliardo Play Store\bin\Debug\Biliardo Play Store.exe
+C:\Users\lenovo\source\repos\Biliardo Play Store\bin\Debug\Biliardo Play Store.pdb
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo_Play_Store.LoadingForm.resources
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo_Play_Store.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.exe
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.pdb
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo_Play_Store.Biliardo_Table.resources
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo_Play_Store.Play_BiliardoGame.resources
+C:\Users\lenovo\source\repos\Biliardo Play Store\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo\source\repos\Biliardo Play Store\obj\Debug\Biliardo Play Store.csproj.CopyComplete
